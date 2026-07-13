@@ -1,0 +1,9 @@
+agent,trials,attack_success_rate_mean,attack_success_rate_ci95,unauthorized_risky_action_rate_mean,unauthorized_risky_action_rate_ci95,benign_accuracy_mean,benign_accuracy_ci95,poison_sealing_rate_mean,poison_sealing_rate_ci95,false_positive_rate_mean,false_positive_rate_ci95,average_latency_ms_mean,average_latency_ms_ci95
+ambient_memory,1,0.65625,0.0,0.3584558823529412,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.022018474262478428,0.0
+counterfactual_memory,1,0.65625,0.0,0.3584558823529412,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.028691727938767078,0.0
+intent_capsules,1,0.0,0.0,0.0,0.0,0.8823529411764706,0.0,0.7169117647058824,0.0,0.11764705882352941,0.0,0.02741626837565083,0.0
+keyword_filter,1,0.65625,0.0,0.3584558823529412,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.02241176470446964,0.0
+output_moderation,1,0.0,0.0,0.0,0.0,0.8823529411764706,0.0,0.0,0.0,0.11764705882352941,0.0,0.022715625001811693,0.0
+provenance_only,1,0.65625,0.0,0.3584558823529412,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.022331525730416333,0.0
+quarantine_only,1,0.65625,0.0,0.3584558823529412,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.022937132355552007,0.0
+trust_score_retrieval,1,0.65625,0.0,0.3584558823529412,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.022108639706844128,0.0
