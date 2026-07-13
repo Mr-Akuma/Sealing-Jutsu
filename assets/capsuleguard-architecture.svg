@@ -21,7 +21,7 @@
 
   <!-- HEADER -->
   <rect x="32" y="24" width="580" height="2" fill="url(#tl)"/>
-  <text x="32" y="62" class="t" font-size="34" font-weight="800" fill="#FFF" letter-spacing="-1">Sealing Jutsu</text>
+  <text x="32" y="62" class="t" font-size="34" font-weight="800" fill="#FFF" letter-spacing="-1">CapsuleGuard</text>
   <text x="230" y="62" class="t" font-size="34" font-weight="300" fill="#00BCD4" letter-spacing="-1"> &#8212; CapsuleGuard</text>
   <text x="32" y="86" class="t" font-size="12" fill="#455A64" letter-spacing="3.5">AGENT MEMORY POISONING DEFENSE &#xB7; PIPELINE ARCHITECTURE</text>
   <rect x="856" y="34" width="144" height="22" rx="11" fill="#00BCD4" fill-opacity="0.08" stroke="#00BCD4" stroke-width="1" stroke-opacity="0.4"/>
@@ -230,7 +230,7 @@
   <text x="700" y="1552" class="t" font-size="10" fill="#37474F">Live LLM defended      ASR  0.00%   planner tempted 2.78%</text>
   <text x="700" y="1568" class="t" font-size="10" fill="#37474F">  llama3 &#xB7; mistral &#xB7; phi3 &#xB7; 216 rows &#xB7; first-pass JSON 100%</text>
   <line x1="32" y1="1588" x2="1168" y2="1588" stroke="#1E2A34" stroke-width="1"/>
-  <text x="32" y="1610" class="t" font-size="11" fill="#263238">github.com/Mr-Akuma/Sealing-Jutsu</text>
+  <text x="32" y="1610" class="t" font-size="11" fill="#263238">anonymous.4open.science/r/CapsuleGuard</text>
   <text x="600" y="1610" class="t" font-size="11" fill="#263238" text-anchor="middle">CapsuleGuard &#xB7; Agent Memory Poisoning Defense Research</text>
   <text x="1168" y="1610" class="t" font-size="11" fill="#263238" text-anchor="end">Python 3.10+</text>
   <rect x="0" y="1856" width="1200" height="4" fill="url(#tl)" opacity="0.5"/>

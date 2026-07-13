@@ -1,8 +1,5 @@
-﻿<p align="center">
-  <img src="assets/sealing-jutsu-banner.png" alt="Sealing Jutsu project banner" width="100%">
-</p>
 
-<h1 align="center">Sealing Jutsu</h1>
+<h1 align="center">CapsuleGuard</h1>
 
 <p align="center">
   <strong>Intent-bound memory capsules for testing and hardening LLM agents against persistent memory poisoning.</strong>
@@ -19,7 +16,7 @@
 
 ## In One Sentence
 
-Sealing Jutsu is a research prototype that tests whether LLM-agent memory can be made safer by forcing every memory to prove what it is allowed to influence before it can shape a plan or trigger an action.
+CapsuleGuard is a research prototype that tests whether LLM-agent memory can be made safer by forcing every memory to prove what it is allowed to influence before it can shape a plan or trigger an action.
 
 ## The Problem
 
@@ -37,7 +34,7 @@ That distinction matters. A memory can be useful for recall while still being fo
 
 ## The Claim
 
-Sealing Jutsu does **not** claim to solve all agent memory poisoning.
+CapsuleGuard does **not** claim to solve all agent memory poisoning.
 
 It tests a narrower, defensible claim:
 
@@ -206,8 +203,8 @@ The default and corpus benchmarks are designed to stress more than simple keywor
 ## Quick Start
 
 ```bash
-git clone https://github.com/Mr-Akuma/Sealing-Jutsu.git
-cd Sealing-Jutsu
+# download and extract this repository (https://anonymous.4open.science/r/CapsuleGuard), then:
+cd CapsuleGuard
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip

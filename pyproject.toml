@@ -3,14 +3,14 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "sealing-jutsu"
+name = "capsuleguard"
 version = "0.1.0"
 description = "Intent-bound memory capsule research prototype for LLM-agent memory poisoning defenses."
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
 authors = [
-  { name = "Mr-Akuma" }
+  { name = "Anonymous" }
 ]
 keywords = [
   "llm-agents",

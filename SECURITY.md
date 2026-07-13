@@ -1,6 +1,6 @@
 # Security Policy
 
-Sealing Jutsu is a defensive research prototype for studying persistent memory poisoning in LLM agents. The repository contains synthetic attacks, sandboxed workflows, and safe tool simulations. It is not intended to be used against real systems.
+CapsuleGuard is a defensive research prototype for studying persistent memory poisoning in LLM agents. The repository contains synthetic attacks, sandboxed workflows, and safe tool simulations. It is not intended to be used against real systems.
 
 ## Supported Scope
 
